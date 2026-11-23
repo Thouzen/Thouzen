@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Koyu ve Açık Tema Uyumlu Başlık Görseli (İsteğe bağlı olarak kendi banner görselinle değiştirebilirsin) -->
-  <h1>Merhaba, ben [Adın] 👋</h1>
+  <h1>Merhaba, ben Thouzen 👋</h1>
   <p><strong>Builder of bite-sized dev tools & student-friendly apps</strong></p>
 
   <p>
