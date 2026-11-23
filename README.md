@@ -8,7 +8,7 @@
     <a href="https://linkedin.com/in/[kullanici-adin]">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="https://x.com/[kullanici-adin]">
+    <a href="https://x.com/thouzenfx">
       <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
     </a>
     <a href="mailto:[eposta@adresin.com]">
