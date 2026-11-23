@@ -33,13 +33,14 @@
 ### 🔧 Tech I’m Using
 
 <!-- GitHub temasına göre (Dark/Light) otomatik renk değiştiren ikon seti -->
-<p align="left">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,python,postgres,docker,git&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,python,postgres,docker,git&theme=light" />
-    <img alt="Tech Stack" src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,python,postgres,docker,git" />
-  </picture>
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,ts,nodejs,react,nextjs,mongodb,postgres,prisma" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,vue,redux,d3,git,postman,figma" />
 </p>
+
+<hr>
 
 <details>
   <summary><strong>📌 Kullandığım diğer araçlar ve detaylar (Tıkla ve aç)</strong></summary>
