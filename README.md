@@ -51,27 +51,3 @@
     <li><strong>DevOps & Araçlar:</strong> GitHub Actions, Linux, Vercel, Figma</li>
   </ul>
 </details>
-
----
-
-### 🌟 Featured Projects
-
-| Proje | Açıklama | Teknolojiler |
-| :--- | :--- | :--- |
-| **[Proje 1 Adı](https://github.com/kullanici-adin/proje-1)** | Projenin ne işe yaradığını anlatan tek cümlelik net açıklama. | `TypeScript` `React` `Node.js` |
-| **[Proje 2 Adı](https://github.com/kullanici-adin/proje-2)** | Öğrenciler veya geliştiriciler için çözdüğü problemi özetleyen açıklama. | `Python` `FastAPI` `Docker` |
-| **[Proje 3 Adı](https://github.com/kullanici-adin/proje-3)** | Hızlı kurulumlu mikro araç veya kütüphane açıklaması. | `Go` `CLI` |
-
----
-
-### 💬 Ask Me About
-- Modern web geliştirme (`React`, `Next.js`, `TypeScript`)
-- Geliştirici deneyimini (DX) iyileştiren küçük otomasyon araçları
-- Hackathon projeleri, MVP çıkarma ve açık kaynak katkıları
-
----
-
-### 📫 How to Reach Me
-- **E-posta:** [eposta@adresin.com](mailto:eposta@adresin.com)
-- **LinkedIn:** [linkedin.com/in/kullanici-adin](https://linkedin.com/in/kullanici-adin)
-- **Web / Portfolyo:** [web-siten.com](https://web-siten.com)
